@@ -12,7 +12,7 @@
             <Label
                 FontSize="36"
                 HorizontalTextAlignment="Center"
-                Text="Que fue mijo rex"
+                Text="Ladra"
                 TextColor="White" />
         </Frame>
         <Label
