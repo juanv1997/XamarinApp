@@ -12,6 +12,7 @@ namespace App1.LayerLogic
 
         public string Nombre { get; set; }
         public string Apellido { get; set; }
+        public string[] Colec;
 
 
         public Empleado(string nombre, string apellido)
