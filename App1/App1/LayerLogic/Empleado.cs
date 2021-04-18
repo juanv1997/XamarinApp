@@ -5,7 +5,21 @@ using System.Threading.Tasks;
 
 namespace App1.LayerLogic
 {
+    
+
     public class Empleado
     {
+
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+
+
+        public Empleado(string nombre, string apellido)
+        {
+            this.Nombre = nombre;
+            this.Apellido = apellido;
+
+        }
+
     }
 }
